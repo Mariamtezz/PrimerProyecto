@@ -9,5 +9,6 @@ export const routes: Routes = [
     { path: 'matatopos', component: Matatopos},
     { path: 'carrera', component: Carrera},
     { path: 'pasoparametros', component: PasoParametros},
+    { path: ''}
 
 ];

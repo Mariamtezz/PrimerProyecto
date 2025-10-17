@@ -1,8 +1,8 @@
 .tablero{
     width: 600px;
     height: 600px;
-    background-color: grey;
-    border: 3px solid black;
+    background-color: #690570;
+    border: 3px solid purple;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around; 
@@ -14,14 +14,14 @@
     width: 180px;
     height: 180px;
     border-radius: 50%;
-    background-color: white;
-    border: 3px solid black;
+    background-color: pink;
+    border: 3px solid palevioletred;
 }
 
 .circulorojo {
     width: 180px;
     height: 180px;
     border-radius: 50%;
-    background-color: red;
-    border: 3px solid black; 
+    background-color: #9B8FFA;
+    border: 3px solid burlywood; 
 }
